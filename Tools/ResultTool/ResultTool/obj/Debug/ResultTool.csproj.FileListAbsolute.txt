@@ -1,0 +1,14 @@
+C:\EE_4NET\Data\Forms\Tools\ResultTool\ResultTool\bin\Debug\ResultTool.exe.config
+C:\EE_4NET\Data\Forms\Tools\ResultTool\ResultTool\bin\Debug\ResultTool.exe
+C:\EE_4NET\Data\Forms\Tools\ResultTool\ResultTool\bin\Debug\ResultTool.pdb
+C:\EE_4NET\Data\Forms\Tools\ResultTool\ResultTool\obj\Debug\ResultTool.csprojAssemblyReference.cache
+C:\EE_4NET\Data\Forms\Tools\ResultTool\ResultTool\obj\Debug\ResultTool.csproj.CoreCompileInputs.cache
+C:\EE_4NET\Data\Forms\Tools\ResultTool\ResultTool\obj\Debug\ResultTool.exe
+C:\EE_4NET\Data\Forms\Tools\ResultTool\ResultTool\obj\Debug\ResultTool.pdb
+C:\EE_4NET\Tools\ResultTool\ResultTool\bin\Debug\ResultTool.exe.config
+C:\EE_4NET\Tools\ResultTool\ResultTool\bin\Debug\ResultTool.exe
+C:\EE_4NET\Tools\ResultTool\ResultTool\bin\Debug\ResultTool.pdb
+C:\EE_4NET\Tools\ResultTool\ResultTool\obj\Debug\ResultTool.csprojAssemblyReference.cache
+C:\EE_4NET\Tools\ResultTool\ResultTool\obj\Debug\ResultTool.csproj.CoreCompileInputs.cache
+C:\EE_4NET\Tools\ResultTool\ResultTool\obj\Debug\ResultTool.exe
+C:\EE_4NET\Tools\ResultTool\ResultTool\obj\Debug\ResultTool.pdb

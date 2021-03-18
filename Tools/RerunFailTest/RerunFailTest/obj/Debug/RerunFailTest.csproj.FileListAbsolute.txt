@@ -1,0 +1,7 @@
+C:\EE_4NET\Data\Forms\Tools\RerunFailTest\RerunFailTest\bin\Debug\RerunFailTest.exe.config
+C:\EE_4NET\Data\Forms\Tools\RerunFailTest\RerunFailTest\bin\Debug\RerunFailTest.exe
+C:\EE_4NET\Data\Forms\Tools\RerunFailTest\RerunFailTest\bin\Debug\RerunFailTest.pdb
+C:\EE_4NET\Data\Forms\Tools\RerunFailTest\RerunFailTest\obj\Debug\RerunFailTest.csprojAssemblyReference.cache
+C:\EE_4NET\Data\Forms\Tools\RerunFailTest\RerunFailTest\obj\Debug\RerunFailTest.csproj.CoreCompileInputs.cache
+C:\EE_4NET\Data\Forms\Tools\RerunFailTest\RerunFailTest\obj\Debug\RerunFailTest.exe
+C:\EE_4NET\Data\Forms\Tools\RerunFailTest\RerunFailTest\obj\Debug\RerunFailTest.pdb

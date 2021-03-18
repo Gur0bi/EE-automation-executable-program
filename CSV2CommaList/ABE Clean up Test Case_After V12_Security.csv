@@ -1,0 +1,55 @@
+﻿ID,Work Item Type,Title,Test Step,Step Action,Step Expected,Area Path,Assigned To,State
+"25988","Test Case","Security:1.1 Create project:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"25989","Test Case","Security:1.3 Commit project:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"25992","Test Case","Security:9.1 Owner Access:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"52064","Test Case","Security:7.2 Markup Drawing:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"56682","Test Case","Security:1.2 Delete project:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"56683","Test Case","Security:1.4 Update project:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"56686","Test Case","Security:8.1 Bridge user:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"56687","Test Case","Security:8.1 Bridge Definer:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"60775","Test Case","Security:1.1 Create project:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"60777","Test Case","Security:1.2 Delete project:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"60778","Test Case","Security:3.2 Object Write:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"60779","Test Case","Security:3.2 Object Write:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"60781","Test Case","Security:8.1 Bridge user:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"60782","Test Case","Security:9.1 Reader Access:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"73265","Test Case","Security:1.4 Update project:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"73272","Test Case","Security:7.2 Markup Drawing:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"73275","Test Case","Security:7.2 Export Drawing:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"79675","Test Case","Object Read:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"79678","Test Case","Bridge Definer:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"81657","Test Case","Security:1.3 Commit project:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"81663","Test Case","Security:7.1 View Drawing:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"81665","Test Case","Security:7.2 Export Drawing:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"81667","Test Case","Security:9.1 Writer Access:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"89438","Test Case","Security:3.1 Object Read:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"89441","Test Case","Security:7.1 Author Drawing:Grant privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"89442","Test Case","Security:7.1 Author Drawing:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
+"89443","Test Case","Security:7.1 View Drawing:Deny privilege",,,,"AspenTech\Engineering\Aspen Basic Engineering Family\Aspen Basic Engineering\Aspen Basic Engineering Core","svc-infmuser <svc-infmuser@aspentech.com>","Design"
+,,,"1","Refer to test case document","Refer to test case document",,,
